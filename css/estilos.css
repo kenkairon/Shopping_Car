@@ -1,0 +1,11 @@
+/* [class^="col"]:nth-child(even){
+    background-color: teal;
+    }
+    [class^="col"]:nth-child(odd){
+    background-color: orange;
+} */
+
+p{
+    font-size:15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
